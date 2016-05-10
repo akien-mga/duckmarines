@@ -7,9 +7,9 @@ MusicMgr.STATE_MINIGAME = 3
 MusicMgr.STATE_GAMEOVER = 4
 
 local musicState = MusicMgr.STATE_NONE
-local menuSong = "groovecallus.ogg"
-local minigameSong = "radiationwoman.ogg"
-local gameOverSong = "interlude.ogg"
+local menuSong = "bubblingpots.ogg"
+local minigameSong = "breakaleg.ogg"
+local gameOverSong = "humancrossing.ogg"
 local ingameSongs = {}
 
 function MusicMgr.loadSongs()
